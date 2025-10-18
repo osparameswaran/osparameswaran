@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## atill learning 👋
+🌱 I’m currently learning to code 
+😄 Pronouns:he/him
 <!--
 **osparameswaran/osparameswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
